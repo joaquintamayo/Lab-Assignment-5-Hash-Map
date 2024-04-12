@@ -1,6 +1,7 @@
 # Lab-Assignment-5-Hash-Map
 
 You are required to present a department report that accesses csv files. You must put the data on the domain composition of the objects.
+
 ![image](https://github.com/joaquintamayo/Lab-Assignment-5-Hash-Map/assets/152839460/4e039286-0896-4abb-980c-18661a638049)
 
 dep.csv contains the following
@@ -35,5 +36,6 @@ E371, Hernandez, Timothy, Junior Accountant
 E372, Cruz, Ricardo, CPA
 
 You need to create objects that will handle the retrieval of the csv files to convert it into objects.  These are EmployeeDA and EmployeeDA objects.  This will be the execution of the sequence:
+
 ![image](https://github.com/joaquintamayo/Lab-Assignment-5-Hash-Map/assets/152839460/7d54cfd8-839d-4809-9455-d198d5560a84)
 
